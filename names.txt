@@ -1,2 +1,2 @@
-boss,NetID,LastName,FirstName
+boss,shong237,Hong,Joy
 employee,xyang666,Yang,Xingyou
